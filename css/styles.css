@@ -1,0 +1,140 @@
+body{
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 1.2em;
+
+}
+
+.top-container{
+  background-color: #ff7171;
+  padding-top: 100px;
+  position: relative;
+
+
+}
+h1{
+  margin-top: 0;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;
+  margin-bottom: 0;
+  color: #16213e;
+}
+h2
+{
+  font-family: 'Indie Flower', cursive;
+  font-size: 4rem;
+  color: #66BFBF;
+
+}
+h3
+{
+  font-family: 'Indie Flower', cursive;
+  color: #11999E;
+  font-size: 1.8rem;
+}
+.mkimg{
+  height: 200px;
+  width:  150px;
+  border-radius: 100%;
+  margin-top: 20px;
+}
+
+hr{
+  border-style: none;
+  border-top: 5px dotted gray;
+
+
+  width: 5%;
+
+
+}
+p{
+    line-height: 1.5;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:  350px;
+}
+.top-cloud{
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+a{
+  color: #11999E;
+}
+.subtitle{
+  font-weight: normal;
+
+}
+
+.heading{
+  line-height: 2;
+}
+.skill-row{
+  margin:100px auto 100px;
+  width: 50%;
+  text-align: left;
+
+}
+.web-img{
+  width: 25%;
+  height: 150px;
+  float: right;
+  margin-right: 30px;
+
+}
+.java{
+  width: 25%;
+  height: 150px;
+  float: left;
+  margin-right: 30px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 25px;
+}
+.contact-me{
+  padding: 50px;
+  margin-bottom: 0;
+}
+.intro{
+  width: 30%;
+  margin: 50px auto 50px;
+}
+.btn {
+	box-shadow: 0 1px 0 0 #dcecfb;
+	background:linear-gradient(to bottom, #bddbfa 5%, #80b5ea 100%);
+	background-color:#bddbfa;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+  font-family: 'Nanum Myeongjo', serif;
+
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 24px;
+	text-decoration:none;
+	text-shadow:0 1px 2px #528ecc;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #80b5ea 5%, #bddbfa 100%);
+	background-color:#80b5ea;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+a{
+  text-decoration: none;
+  font-family: 'Nanum Myeongjo', serif;
+
+}
+a:hover{
+  color: black;
+}
